@@ -391,7 +391,9 @@ section{
     color: #111;
 }
 .skills-content{
+    margin-left: auto;
     display: contents;
+    margin-right: auto;
 }
 .skills-content .container {
     width: 50%;
@@ -401,6 +403,7 @@ section{
 
 }
 .skills-content p {
+    left: 10px;
     font-size: 20px;
     font-family: 'ubuntu' , sans-serif;
     font-weight: 500;
